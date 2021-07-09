@@ -1785,7 +1785,6 @@ input[type="number"]::-webkit-inner-spin-button {
   font-size: 14px;
   line-height: 1.428571429;
   color: #444444;
-  vertical-align: middle;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border-radius: 4px;
@@ -1824,7 +1823,6 @@ textarea.form-control {
   padding-left: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
-  vertical-align: middle;
 }
 
 .radio label,
